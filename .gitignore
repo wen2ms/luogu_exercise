@@ -1,0 +1,13 @@
+# Executable files
+*.out
+
+# MacOS
+.DS_Store
+
+# drawio
+*.drawio.bkp
+
+# VSCode
+.vscode
+
+foo.cpp
